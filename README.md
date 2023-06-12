@@ -2,7 +2,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=41212950)
 
 <h1 align="center">Hey :) , I'm Nick</h1>
-<h3 align="center">Digital Nomade and Senior Software and Machine Learning Engineer</h3>
+<h3 align="center">Senior Software and Machine Learning Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,7 +11,7 @@
 
 
 <h3 align="left">My Favorites:</h3>
-<p <a href="www.flutter.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="azure" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> </p>
+<p <a href="www.flutter.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="azure"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> </p>
 
 
 
