@@ -13,6 +13,8 @@
 <h3 align="left">My Favorites:</h3>
 <p <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="azure"/> </a> 
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="azure"/> </a> 
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="azure"/> </a> 
  </p>
 
 
