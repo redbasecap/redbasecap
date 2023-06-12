@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=redbasecap&style=flat-square&color=red&style=for-the-badge&label=NUMBER+OF+PROFILE+VIEWS)
 ![](https://hit.yhype.me/github/profile?user_id=41212950)
 
-<h1 align="center">Hey :) , I'm Nick</h1>
+<h1 align="center">Hey :) I'm Nick</h1>
 <h3 align="center">Senior Software and Machine Learning Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
