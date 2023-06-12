@@ -11,7 +11,9 @@
 
 
 <h3 align="left">My Favorites:</h3>
-<p <a href="www.flutter.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="azure"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> </p>
+<p <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="azure"/> </a> 
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="azure"/> </a> 
+ </p>
 
 
 
